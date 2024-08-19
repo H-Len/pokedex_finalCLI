@@ -6,7 +6,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bootdotdev/go-api-gate/courses/projects/pokedexcli/internal/pokeapi"
+	"pokedex_finalCLI/internal/pokeapi"
+	// "github.com/bootdotdev/go-api-gate/courses/projects/pokedexcli/internal/pokeapi"
 )
 
 type config struct {
