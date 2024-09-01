@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/bootdotdev/go-api-gate/courses/projects/pokedexcli/internal/pokecache"
+	"pokedex_finalCLI/internal/pokecache"
 )
 
 // Client -
